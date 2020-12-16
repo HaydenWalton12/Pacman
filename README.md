@@ -1,9 +1,8 @@
-# Pacman
+#Pacman  Project (By Hayden Walton)
 
-Recreation of Pac-Man using the S2D library which was created by Staffordshire University. More information about it can be found [here](https://daniel-marker.github.io/Pacman/)
-
-
-## Built With
-
-* S2D - The graphics library used
-* Visual Studio - IDE used
+A recreation of pacman using the inhouse S2D library created by staffordshire university
+Assigned to us as a part of our assignment for FOGGS
+#Developed with
+ * S2D Library
+ * C++ 
+ * Visual Studio 
