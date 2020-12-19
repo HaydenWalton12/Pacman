@@ -1,4 +1,4 @@
-﻿#include "Pacman.h"
+#include "Pacman.h"
 #include <iostream>
 #include <sstream>
 	int score = 0;
